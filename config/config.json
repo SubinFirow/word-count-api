@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "Subin@97476",
+    "database": "word-count",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "postgres",
+    "password": "qwert@123",
+    "database": "website_analyst",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "postgres",
+    "password": "qwert@123",
+    "database": "website_analyst",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
